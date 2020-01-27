@@ -1,4 +1,4 @@
-# Competitors & inspirations
+# Competitors & Inspirations
 
 ## Large
 
