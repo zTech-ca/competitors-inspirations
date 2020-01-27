@@ -21,3 +21,11 @@ http://www.jennywtlau.com/
 ### iTutor Academy
 
 https://itutoracademy.com/
+
+### Raptors ticket
+
+https://www.raptorsticket.com/
+
+### Anime art puzzle
+
+https://play.google.com/store/apps/details?id=ca.ualberta.customizableanimeartpuzzle
