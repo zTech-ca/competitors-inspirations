@@ -16,7 +16,7 @@ https://www.naxa.co.jp/en/
 
 http://www.jennywtlau.com/
 
-# Company portfolio
+# Our portfolio
 
 ### iTutor Academy
 
@@ -29,3 +29,19 @@ https://www.raptorsticket.com/
 ### Anime art puzzle
 
 https://play.google.com/store/apps/details?id=ca.ualberta.customizableanimeartpuzzle
+
+# Member portfolio
+
+### Jay Jay Ting
+
+jayjay@ztech.ca
+https://jayjayting.github.io/
+
+### Viet
+
+tranduc@ztech.ca
+https://vtranduc.github.io/
+
+### Rahmat
+
+ saeedi@zTech.ca
