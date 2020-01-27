@@ -34,14 +34,14 @@ https://play.google.com/store/apps/details?id=ca.ualberta.customizableanimeartpu
 
 ### Jay Jay Ting
 
-jayjay@ztech.ca
+jayjay@ztech.ca<br/>
 https://jayjayting.github.io/
 
 ### Viet
 
-tranduc@ztech.ca
+tranduc@ztech.ca<br/>
 https://vtranduc.github.io/
 
 ### Rahmat
 
- saeedi@zTech.ca
+ saeedi@zTech.ca<br/>
