@@ -1,10 +1,14 @@
 # Competitors & Inspirations
 
-## Large
+## Large & Medium
 
 ### SPIRIA
 
 https://www.spiria.com/en/services/web-application-development/
+
+### LuxPMSoft
+
+https://www.luxpmsoft.com/
 
 ## Small
 
